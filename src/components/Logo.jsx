@@ -16,6 +16,7 @@ const handleToggleSidebar = () => {
         <i className='bi bi-list toggle-sidebar-btn' onClick={handleToggleSidebar}>
 
         </i>
+    
     </div>
   )
 }
